@@ -9,7 +9,7 @@ public class Main
 		Scanner keyboard=new Scanner(System.in);
 		
 		char choose;
-		double num1 , num2 , multiply , dividing , positive ,negative , total;
+		double num1 , num2 , total;
 		
 		while(true){
 		System.out.println("Choose the type of operation: ");
